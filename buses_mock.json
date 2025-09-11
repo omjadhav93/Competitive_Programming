@@ -1,0 +1,4302 @@
+[
+  {
+    "busNumber": "BUS001",
+    "routeId": "68c105a84491dc60c9930c7b",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2012,
+      "capacity": 40,
+      "licensePlate": "MH82AB2093"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 19.849842,
+      "longitude": 76.449226,
+      "heading": 194,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.519954"
+    },
+    "driverId": "68c0614cf9e87cc131494d7e",
+    "schedule": {
+      "startTime": "07:00",
+      "endTime": "19:45",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-02T06:31:50.519927",
+      "nextServiceDate": "2025-08-22T06:31:50.519927",
+      "mileage": 58919,
+      "fuelLevel": 28
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.519964",
+      "deviceId": "DEV001",
+      "signalStrength": 70
+    },
+    "operationalData": {
+      "totalTrips": 1574,
+      "totalDistance": 209634,
+      "averageSpeed": 57,
+      "onTimePercentage": 71
+    }
+  },
+  {
+    "busNumber": "BUS002",
+    "routeId": "68c108824491dc60c9934b96",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2013,
+      "capacity": 50,
+      "licensePlate": "MH96AB5190"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 19.87278,
+      "longitude": 86.253387,
+      "heading": 322,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520010"
+    },
+    "driverId": "68c06185f9e87cc131494e17",
+    "schedule": {
+      "startTime": "05:15",
+      "endTime": "19:15",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-03-20T06:31:50.519996",
+      "nextServiceDate": "2025-06-25T06:31:50.519996",
+      "mileage": 161240,
+      "fuelLevel": 43
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520022",
+      "deviceId": "DEV002",
+      "signalStrength": 56
+    },
+    "operationalData": {
+      "totalTrips": 8685,
+      "totalDistance": 128367,
+      "averageSpeed": 22,
+      "onTimePercentage": 79
+    }
+  },
+  {
+    "busNumber": "BUS003",
+    "routeId": "68c105174491dc60c992f6d2",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2025,
+      "capacity": 40,
+      "licensePlate": "MH24AB5068"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 11.407794,
+      "longitude": 83.843936,
+      "heading": 227,
+      "speed": 76,
+      "lastUpdated": "2025-09-10T06:31:50.520064"
+    },
+    "driverId": "68c061a5f9e87cc131494eb0",
+    "schedule": {
+      "startTime": "09:15",
+      "endTime": "23:15",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-26T06:31:50.520056",
+      "nextServiceDate": "2025-11-02T06:31:50.520056",
+      "mileage": 26037,
+      "fuelLevel": 44
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.520070",
+      "deviceId": "DEV003",
+      "signalStrength": 62
+    },
+    "operationalData": {
+      "totalTrips": 1616,
+      "totalDistance": 79943,
+      "averageSpeed": 52,
+      "onTimePercentage": 99
+    }
+  },
+  {
+    "busNumber": "BUS004",
+    "routeId": "68c1070b4491dc60c99317a7",
+    "vehicleInfo": {
+      "make": "Tata",
+      "model": "Starbus",
+      "year": 2025,
+      "capacity": 40,
+      "licensePlate": "MH30AB8220"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 25.647843,
+      "longitude": 72.676831,
+      "heading": 178,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520115"
+    },
+    "driverId": "68c06154f9e87cc131494d99",
+    "schedule": {
+      "startTime": "09:00",
+      "endTime": "23:45",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-03-16T06:31:50.520100",
+      "nextServiceDate": "2025-08-15T06:31:50.520100",
+      "mileage": 30798,
+      "fuelLevel": 58
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520128",
+      "deviceId": "DEV004",
+      "signalStrength": 76
+    },
+    "operationalData": {
+      "totalTrips": 9062,
+      "totalDistance": 378022,
+      "averageSpeed": 36,
+      "onTimePercentage": 77
+    }
+  },
+  {
+    "busNumber": "BUS005",
+    "routeId": "68c105a04491dc60c9930abf",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2021,
+      "capacity": 60,
+      "licensePlate": "MH56AB6222"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 14.985699,
+      "longitude": 87.229424,
+      "heading": 353,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520167"
+    },
+    "driverId": "68c06135f9e87cc131494d30",
+    "schedule": {
+      "startTime": "05:00",
+      "endTime": "23:00",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-04T06:31:50.520160",
+      "nextServiceDate": "2025-12-10T06:31:50.520160",
+      "mileage": 55714,
+      "fuelLevel": 94
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520174",
+      "deviceId": "DEV005",
+      "signalStrength": 54
+    },
+    "operationalData": {
+      "totalTrips": 3676,
+      "totalDistance": 78075,
+      "averageSpeed": 22,
+      "onTimePercentage": 78
+    }
+  },
+  {
+    "busNumber": "BUS006",
+    "routeId": "68c107574491dc60c99324b4",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2012,
+      "capacity": 60,
+      "licensePlate": "MH23AB3889"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 13.435909,
+      "longitude": 68.50102,
+      "heading": 78,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520201"
+    },
+    "driverId": "68c0612bf9e87cc131494d0f",
+    "schedule": {
+      "startTime": "07:30",
+      "endTime": "23:00",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-06T06:31:50.520194",
+      "nextServiceDate": "2025-11-18T06:31:50.520194",
+      "mileage": 71326,
+      "fuelLevel": 19
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520236",
+      "deviceId": "DEV006",
+      "signalStrength": 99
+    },
+    "operationalData": {
+      "totalTrips": 7385,
+      "totalDistance": 22304,
+      "averageSpeed": 23,
+      "onTimePercentage": 100
+    }
+  },
+  {
+    "busNumber": "BUS007",
+    "routeId": "68c1071f4491dc60c9931c01",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2011,
+      "capacity": 40,
+      "licensePlate": "MH26AB7357"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 21.624205,
+      "longitude": 78.579598,
+      "heading": 304,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520370"
+    },
+    "driverId": "68c0614af9e87cc131494d78",
+    "schedule": {
+      "startTime": "09:00",
+      "endTime": "23:00",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-26T06:31:50.520359",
+      "nextServiceDate": "2025-09-06T06:31:50.520359",
+      "mileage": 87094,
+      "fuelLevel": 41
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520376",
+      "deviceId": "DEV007",
+      "signalStrength": 86
+    },
+    "operationalData": {
+      "totalTrips": 934,
+      "totalDistance": 284629,
+      "averageSpeed": 28,
+      "onTimePercentage": 98
+    }
+  },
+  {
+    "busNumber": "BUS008",
+    "routeId": "68c1084d4491dc60c9933c3c",
+    "vehicleInfo": {
+      "make": "Tata",
+      "model": "Starbus",
+      "year": 2023,
+      "capacity": 50,
+      "licensePlate": "MH16AB7878"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 26.263382,
+      "longitude": 83.813985,
+      "heading": 243,
+      "speed": 44,
+      "lastUpdated": "2025-09-10T06:31:50.520413"
+    },
+    "driverId": "68c0618bf9e87cc131494e32",
+    "schedule": {
+      "startTime": "05:15",
+      "endTime": "18:00",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-14T06:31:50.520405",
+      "nextServiceDate": "2025-11-04T06:31:50.520405",
+      "mileage": 126097,
+      "fuelLevel": 82
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.520421",
+      "deviceId": "DEV008",
+      "signalStrength": 74
+    },
+    "operationalData": {
+      "totalTrips": 5726,
+      "totalDistance": 58172,
+      "averageSpeed": 24,
+      "onTimePercentage": 94
+    }
+  },
+  {
+    "busNumber": "BUS009",
+    "routeId": "68c108334491dc60c9933569",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2011,
+      "capacity": 30,
+      "licensePlate": "MH27AB7834"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 15.051471,
+      "longitude": 69.921645,
+      "heading": 277,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520449"
+    },
+    "driverId": "68c06106f9e87cc131494c97",
+    "schedule": {
+      "startTime": "07:15",
+      "endTime": "20:30",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-28T06:31:50.520442",
+      "nextServiceDate": "2025-11-12T06:31:50.520442",
+      "mileage": 40497,
+      "fuelLevel": 13
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520454",
+      "deviceId": "DEV009",
+      "signalStrength": 93
+    },
+    "operationalData": {
+      "totalTrips": 9145,
+      "totalDistance": 225471,
+      "averageSpeed": 34,
+      "onTimePercentage": 93
+    }
+  },
+  {
+    "busNumber": "BUS010",
+    "routeId": "68c105c24491dc60c9931231",
+    "vehicleInfo": {
+      "make": "Eicher",
+      "model": "Skyline",
+      "year": 2022,
+      "capacity": 50,
+      "licensePlate": "MH19AB7317"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 17.220462,
+      "longitude": 80.480158,
+      "heading": 113,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520480"
+    },
+    "driverId": "68c06172f9e87cc131494dba",
+    "schedule": {
+      "startTime": "09:30",
+      "endTime": "20:45",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-03-17T06:31:50.520473",
+      "nextServiceDate": "2025-07-28T06:31:50.520473",
+      "mileage": 15235,
+      "fuelLevel": 73
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520486",
+      "deviceId": "DEV010",
+      "signalStrength": 94
+    },
+    "operationalData": {
+      "totalTrips": 8407,
+      "totalDistance": 415380,
+      "averageSpeed": 50,
+      "onTimePercentage": 99
+    }
+  },
+  {
+    "busNumber": "BUS011",
+    "routeId": "68c108764491dc60c993485c",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2015,
+      "capacity": 30,
+      "licensePlate": "MH23AB7904"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 20.344867,
+      "longitude": 82.707074,
+      "heading": 21,
+      "speed": 73,
+      "lastUpdated": "2025-09-10T06:31:50.520512"
+    },
+    "driverId": "68c061a0f9e87cc131494e98",
+    "schedule": {
+      "startTime": "06:15",
+      "endTime": "21:15",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-23T06:31:50.520505",
+      "nextServiceDate": "2025-09-02T06:31:50.520505",
+      "mileage": 100326,
+      "fuelLevel": 49
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.520518",
+      "deviceId": "DEV011",
+      "signalStrength": 90
+    },
+    "operationalData": {
+      "totalTrips": 189,
+      "totalDistance": 118503,
+      "averageSpeed": 45,
+      "onTimePercentage": 77
+    }
+  },
+  {
+    "busNumber": "BUS012",
+    "routeId": "68c1083a4491dc60c993371a",
+    "vehicleInfo": {
+      "make": "Eicher",
+      "model": "Skyline",
+      "year": 2016,
+      "capacity": 40,
+      "licensePlate": "MH74AB4119"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 12.605217,
+      "longitude": 77.577444,
+      "heading": 206,
+      "speed": 78,
+      "lastUpdated": "2025-09-10T06:31:50.520568"
+    },
+    "driverId": "68c061a4f9e87cc131494ead",
+    "schedule": {
+      "startTime": "08:15",
+      "endTime": "18:00",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-08-01T06:31:50.520552",
+      "nextServiceDate": "2026-01-27T06:31:50.520552",
+      "mileage": 185281,
+      "fuelLevel": 94
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.520583",
+      "deviceId": "DEV012",
+      "signalStrength": 78
+    },
+    "operationalData": {
+      "totalTrips": 5684,
+      "totalDistance": 420359,
+      "averageSpeed": 60,
+      "onTimePercentage": 74
+    }
+  },
+  {
+    "busNumber": "BUS013",
+    "routeId": "68c107644491dc60c9932675",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2025,
+      "capacity": 50,
+      "licensePlate": "MH49AB9604"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 13.860301,
+      "longitude": 72.843826,
+      "heading": 47,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520610"
+    },
+    "driverId": "68c0617af9e87cc131494de1",
+    "schedule": {
+      "startTime": "09:30",
+      "endTime": "21:45",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-28T06:31:50.520603",
+      "nextServiceDate": "2025-12-21T06:31:50.520603",
+      "mileage": 81477,
+      "fuelLevel": 90
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520618",
+      "deviceId": "DEV013",
+      "signalStrength": 83
+    },
+    "operationalData": {
+      "totalTrips": 9509,
+      "totalDistance": 381044,
+      "averageSpeed": 37,
+      "onTimePercentage": 85
+    }
+  },
+  {
+    "busNumber": "BUS014",
+    "routeId": "68c108df4491dc60c9936591",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2010,
+      "capacity": 60,
+      "licensePlate": "MH12AB3847"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 26.228627,
+      "longitude": 71.356808,
+      "heading": 348,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520665"
+    },
+    "driverId": "68c061a4f9e87cc131494eaa",
+    "schedule": {
+      "startTime": "09:00",
+      "endTime": "22:45",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-25T06:31:50.520651",
+      "nextServiceDate": "2025-10-24T06:31:50.520651",
+      "mileage": 65899,
+      "fuelLevel": 50
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520676",
+      "deviceId": "DEV014",
+      "signalStrength": 79
+    },
+    "operationalData": {
+      "totalTrips": 381,
+      "totalDistance": 60343,
+      "averageSpeed": 32,
+      "onTimePercentage": 84
+    }
+  },
+  {
+    "busNumber": "BUS015",
+    "routeId": "68c105774491dc60c9930207",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2011,
+      "capacity": 30,
+      "licensePlate": "MH34AB4752"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 20.579001,
+      "longitude": 84.93279,
+      "heading": 211,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520709"
+    },
+    "driverId": "68c0619af9e87cc131494e7a",
+    "schedule": {
+      "startTime": "08:15",
+      "endTime": "18:45",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-08-06T06:31:50.520701",
+      "nextServiceDate": "2026-01-06T06:31:50.520701",
+      "mileage": 74468,
+      "fuelLevel": 63
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520715",
+      "deviceId": "DEV015",
+      "signalStrength": 79
+    },
+    "operationalData": {
+      "totalTrips": 590,
+      "totalDistance": 480325,
+      "averageSpeed": 59,
+      "onTimePercentage": 82
+    }
+  },
+  {
+    "busNumber": "BUS016",
+    "routeId": "68c1073d4491dc60c99321a4",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2013,
+      "capacity": 50,
+      "licensePlate": "MH42AB4792"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 22.778891,
+      "longitude": 77.772281,
+      "heading": 242,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520740"
+    },
+    "driverId": "68c06115f9e87cc131494cc7",
+    "schedule": {
+      "startTime": "09:30",
+      "endTime": "19:00",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-16T06:31:50.520733",
+      "nextServiceDate": "2025-10-03T06:31:50.520733",
+      "mileage": 89989,
+      "fuelLevel": 76
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520745",
+      "deviceId": "DEV016",
+      "signalStrength": 82
+    },
+    "operationalData": {
+      "totalTrips": 6093,
+      "totalDistance": 314481,
+      "averageSpeed": 25,
+      "onTimePercentage": 81
+    }
+  },
+  {
+    "busNumber": "BUS017",
+    "routeId": "68c108544491dc60c9933ec1",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2017,
+      "capacity": 40,
+      "licensePlate": "MH97AB5964"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 11.926731,
+      "longitude": 85.770473,
+      "heading": 6,
+      "speed": 53,
+      "lastUpdated": "2025-09-10T06:31:50.520779"
+    },
+    "driverId": "68c0612cf9e87cc131494d12",
+    "schedule": {
+      "startTime": "05:00",
+      "endTime": "18:15",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-25T06:31:50.520767",
+      "nextServiceDate": "2025-10-30T06:31:50.520767",
+      "mileage": 187272,
+      "fuelLevel": 18
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.520788",
+      "deviceId": "DEV017",
+      "signalStrength": 94
+    },
+    "operationalData": {
+      "totalTrips": 6250,
+      "totalDistance": 299045,
+      "averageSpeed": 46,
+      "onTimePercentage": 89
+    }
+  },
+  {
+    "busNumber": "BUS018",
+    "routeId": "68c108954491dc60c99350a7",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2018,
+      "capacity": 50,
+      "licensePlate": "MH83AB2403"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 15.320053,
+      "longitude": 75.101213,
+      "heading": 302,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520838"
+    },
+    "driverId": "68c0619bf9e87cc131494e80",
+    "schedule": {
+      "startTime": "07:30",
+      "endTime": "18:00",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-12T06:31:50.520830",
+      "nextServiceDate": "2025-09-09T06:31:50.520830",
+      "mileage": 134224,
+      "fuelLevel": 94
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520844",
+      "deviceId": "DEV018",
+      "signalStrength": 66
+    },
+    "operationalData": {
+      "totalTrips": 1989,
+      "totalDistance": 110843,
+      "averageSpeed": 49,
+      "onTimePercentage": 99
+    }
+  },
+  {
+    "busNumber": "BUS019",
+    "routeId": "68c1059f4491dc60c9930a30",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2016,
+      "capacity": 50,
+      "licensePlate": "MH91AB4237"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 23.076775,
+      "longitude": 85.024354,
+      "heading": 346,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520870"
+    },
+    "driverId": "68c06144f9e87cc131494d63",
+    "schedule": {
+      "startTime": "06:00",
+      "endTime": "19:15",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-16T06:31:50.520863",
+      "nextServiceDate": "2026-01-03T06:31:50.520863",
+      "mileage": 35547,
+      "fuelLevel": 57
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520876",
+      "deviceId": "DEV019",
+      "signalStrength": 61
+    },
+    "operationalData": {
+      "totalTrips": 5698,
+      "totalDistance": 311220,
+      "averageSpeed": 20,
+      "onTimePercentage": 80
+    }
+  },
+  {
+    "busNumber": "BUS020",
+    "routeId": "68c108b84491dc60c9935a59",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2010,
+      "capacity": 30,
+      "licensePlate": "MH94AB6885"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 10.80608,
+      "longitude": 69.904524,
+      "heading": 245,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520900"
+    },
+    "driverId": "68c06152f9e87cc131494d93",
+    "schedule": {
+      "startTime": "07:45",
+      "endTime": "19:15",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-31T06:31:50.520893",
+      "nextServiceDate": "2025-11-04T06:31:50.520893",
+      "mileage": 116261,
+      "fuelLevel": 21
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520907",
+      "deviceId": "DEV020",
+      "signalStrength": 98
+    },
+    "operationalData": {
+      "totalTrips": 917,
+      "totalDistance": 345940,
+      "averageSpeed": 29,
+      "onTimePercentage": 91
+    }
+  },
+  {
+    "busNumber": "BUS021",
+    "routeId": "68c105494491dc60c992fd7d",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2018,
+      "capacity": 30,
+      "licensePlate": "MH34AB3228"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 23.7498,
+      "longitude": 74.758152,
+      "heading": 34,
+      "speed": 39,
+      "lastUpdated": "2025-09-10T06:31:50.520948"
+    },
+    "driverId": "68c06158f9e87cc131494da8",
+    "schedule": {
+      "startTime": "06:30",
+      "endTime": "23:45",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-02T06:31:50.520934",
+      "nextServiceDate": "2025-11-19T06:31:50.520934",
+      "mileage": 35327,
+      "fuelLevel": 40
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.520959",
+      "deviceId": "DEV021",
+      "signalStrength": 92
+    },
+    "operationalData": {
+      "totalTrips": 4924,
+      "totalDistance": 495886,
+      "averageSpeed": 44,
+      "onTimePercentage": 70
+    }
+  },
+  {
+    "busNumber": "BUS022",
+    "routeId": "68c1085d4491dc60c9934111",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2022,
+      "capacity": 40,
+      "licensePlate": "MH72AB4705"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 22.422483,
+      "longitude": 70.453054,
+      "heading": 246,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.520991"
+    },
+    "driverId": "68c06186f9e87cc131494e1a",
+    "schedule": {
+      "startTime": "07:15",
+      "endTime": "20:30",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-12T06:31:50.520983",
+      "nextServiceDate": "2025-09-30T06:31:50.520983",
+      "mileage": 63509,
+      "fuelLevel": 95
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.520997",
+      "deviceId": "DEV022",
+      "signalStrength": 69
+    },
+    "operationalData": {
+      "totalTrips": 8758,
+      "totalDistance": 219138,
+      "averageSpeed": 60,
+      "onTimePercentage": 94
+    }
+  },
+  {
+    "busNumber": "BUS023",
+    "routeId": "68c10e3a03c55750625157db",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2018,
+      "capacity": 40,
+      "licensePlate": "MH77AB2316"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 25.802338,
+      "longitude": 85.784603,
+      "heading": 24,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.521024"
+    },
+    "driverId": "68c06138f9e87cc131494d3c",
+    "schedule": {
+      "startTime": "09:30",
+      "endTime": "20:30",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-08T06:31:50.521015",
+      "nextServiceDate": "2025-08-28T06:31:50.521015",
+      "mileage": 79091,
+      "fuelLevel": 81
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.521030",
+      "deviceId": "DEV023",
+      "signalStrength": 87
+    },
+    "operationalData": {
+      "totalTrips": 6323,
+      "totalDistance": 290934,
+      "averageSpeed": 45,
+      "onTimePercentage": 86
+    }
+  },
+  {
+    "busNumber": "BUS024",
+    "routeId": "68c105414491dc60c992fc66",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2020,
+      "capacity": 50,
+      "licensePlate": "MH77AB2808"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 18.644029,
+      "longitude": 71.624268,
+      "heading": 267,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.521055"
+    },
+    "driverId": "68c06189f9e87cc131494e29",
+    "schedule": {
+      "startTime": "08:00",
+      "endTime": "22:15",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-01T06:31:50.521049",
+      "nextServiceDate": "2025-12-23T06:31:50.521049",
+      "mileage": 199804,
+      "fuelLevel": 49
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.521061",
+      "deviceId": "DEV024",
+      "signalStrength": 74
+    },
+    "operationalData": {
+      "totalTrips": 3977,
+      "totalDistance": 241771,
+      "averageSpeed": 34,
+      "onTimePercentage": 98
+    }
+  },
+  {
+    "busNumber": "BUS025",
+    "routeId": "68c1086b4491dc60c993458b",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2020,
+      "capacity": 30,
+      "licensePlate": "MH41AB6553"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 13.396378,
+      "longitude": 72.117219,
+      "heading": 137,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.521088"
+    },
+    "driverId": "68c06111f9e87cc131494cbb",
+    "schedule": {
+      "startTime": "05:00",
+      "endTime": "19:00",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-08T06:31:50.521082",
+      "nextServiceDate": "2025-11-17T06:31:50.521082",
+      "mileage": 52394,
+      "fuelLevel": 74
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.521095",
+      "deviceId": "DEV025",
+      "signalStrength": 93
+    },
+    "operationalData": {
+      "totalTrips": 1951,
+      "totalDistance": 105612,
+      "averageSpeed": 32,
+      "onTimePercentage": 74
+    }
+  },
+  {
+    "busNumber": "BUS026",
+    "routeId": "68c1052c4491dc60c992f98e",
+    "vehicleInfo": {
+      "make": "Eicher",
+      "model": "Skyline",
+      "year": 2020,
+      "capacity": 60,
+      "licensePlate": "MH53AB5845"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 21.778078,
+      "longitude": 73.757066,
+      "heading": 183,
+      "speed": 64,
+      "lastUpdated": "2025-09-10T06:31:50.521123"
+    },
+    "driverId": "68c06117f9e87cc131494ccd",
+    "schedule": {
+      "startTime": "06:15",
+      "endTime": "20:00",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-25T06:31:50.521114",
+      "nextServiceDate": "2025-11-29T06:31:50.521114",
+      "mileage": 78201,
+      "fuelLevel": 17
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.521133",
+      "deviceId": "DEV026",
+      "signalStrength": 56
+    },
+    "operationalData": {
+      "totalTrips": 635,
+      "totalDistance": 132396,
+      "averageSpeed": 52,
+      "onTimePercentage": 86
+    }
+  },
+  {
+    "busNumber": "BUS027",
+    "routeId": "68c1077d4491dc60c9932c4d",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2014,
+      "capacity": 30,
+      "licensePlate": "MH93AB6767"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 8.168141,
+      "longitude": 68.348607,
+      "heading": 164,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.521180"
+    },
+    "driverId": "68c06197f9e87cc131494e6b",
+    "schedule": {
+      "startTime": "09:45",
+      "endTime": "19:45",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-21T06:31:50.521171",
+      "nextServiceDate": "2025-09-07T06:31:50.521171",
+      "mileage": 191007,
+      "fuelLevel": 86
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.521186",
+      "deviceId": "DEV027",
+      "signalStrength": 76
+    },
+    "operationalData": {
+      "totalTrips": 7533,
+      "totalDistance": 84981,
+      "averageSpeed": 23,
+      "onTimePercentage": 77
+    }
+  },
+  {
+    "busNumber": "BUS028",
+    "routeId": "68c10e3a03c55750625157e8",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2015,
+      "capacity": 60,
+      "licensePlate": "MH50AB2917"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 9.143972,
+      "longitude": 72.666295,
+      "heading": 231,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.521211"
+    },
+    "driverId": "68c06177f9e87cc131494dd2",
+    "schedule": {
+      "startTime": "05:00",
+      "endTime": "20:30",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-28T06:31:50.521205",
+      "nextServiceDate": "2025-10-10T06:31:50.521205",
+      "mileage": 170372,
+      "fuelLevel": 42
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.521217",
+      "deviceId": "DEV028",
+      "signalStrength": 97
+    },
+    "operationalData": {
+      "totalTrips": 7375,
+      "totalDistance": 81711,
+      "averageSpeed": 53,
+      "onTimePercentage": 73
+    }
+  },
+  {
+    "busNumber": "BUS029",
+    "routeId": "68c1087e4491dc60c9934ac1",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2017,
+      "capacity": 30,
+      "licensePlate": "MH99AB2606"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 17.173289,
+      "longitude": 79.386732,
+      "heading": 223,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.521264"
+    },
+    "driverId": "68bf1929aaa87080c26a3128",
+    "schedule": {
+      "startTime": "08:15",
+      "endTime": "19:45",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-18T06:31:50.521249",
+      "nextServiceDate": "2025-09-25T06:31:50.521249",
+      "mileage": 193997,
+      "fuelLevel": 46
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.521279",
+      "deviceId": "DEV029",
+      "signalStrength": 54
+    },
+    "operationalData": {
+      "totalTrips": 9450,
+      "totalDistance": 352174,
+      "averageSpeed": 35,
+      "onTimePercentage": 99
+    }
+  },
+  {
+    "busNumber": "BUS030",
+    "routeId": "68c1078b4491dc60c9932ffe",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2023,
+      "capacity": 50,
+      "licensePlate": "MH52AB2155"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 19.895669,
+      "longitude": 84.267187,
+      "heading": 50,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.521323"
+    },
+    "driverId": "68c06125f9e87cc131494cfa",
+    "schedule": {
+      "startTime": "09:30",
+      "endTime": "21:15",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-03-26T06:31:50.521317",
+      "nextServiceDate": "2025-09-04T06:31:50.521317",
+      "mileage": 199774,
+      "fuelLevel": 40
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.521329",
+      "deviceId": "DEV030",
+      "signalStrength": 95
+    },
+    "operationalData": {
+      "totalTrips": 7980,
+      "totalDistance": 471051,
+      "averageSpeed": 49,
+      "onTimePercentage": 77
+    }
+  },
+  {
+    "busNumber": "BUS031",
+    "routeId": "68c107924491dc60c99331d0",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2022,
+      "capacity": 40,
+      "licensePlate": "MH88AB4221"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 22.557289,
+      "longitude": 87.042637,
+      "heading": 233,
+      "speed": 23,
+      "lastUpdated": "2025-09-10T06:31:50.521393"
+    },
+    "driverId": "68c0614df9e87cc131494d81",
+    "schedule": {
+      "startTime": "05:15",
+      "endTime": "19:30",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-07T06:31:50.521387",
+      "nextServiceDate": "2025-08-15T06:31:50.521387",
+      "mileage": 131525,
+      "fuelLevel": 46
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.521415",
+      "deviceId": "DEV031",
+      "signalStrength": 65
+    },
+    "operationalData": {
+      "totalTrips": 2324,
+      "totalDistance": 98111,
+      "averageSpeed": 37,
+      "onTimePercentage": 86
+    }
+  },
+  {
+    "busNumber": "BUS032",
+    "routeId": "68c108af4491dc60c993582c",
+    "vehicleInfo": {
+      "make": "Tata",
+      "model": "Starbus",
+      "year": 2019,
+      "capacity": 60,
+      "licensePlate": "MH39AB2378"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 11.386814,
+      "longitude": 74.862587,
+      "heading": 281,
+      "speed": 15,
+      "lastUpdated": "2025-09-10T06:31:50.521494"
+    },
+    "driverId": "68c0610df9e87cc131494caf",
+    "schedule": {
+      "startTime": "06:30",
+      "endTime": "20:45",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-18T06:31:50.521481",
+      "nextServiceDate": "2025-07-23T06:31:50.521481",
+      "mileage": 96243,
+      "fuelLevel": 74
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.521518",
+      "deviceId": "DEV032",
+      "signalStrength": 95
+    },
+    "operationalData": {
+      "totalTrips": 800,
+      "totalDistance": 478899,
+      "averageSpeed": 51,
+      "onTimePercentage": 91
+    }
+  },
+  {
+    "busNumber": "BUS033",
+    "routeId": "68c105114491dc60c992f610",
+    "vehicleInfo": {
+      "make": "Tata",
+      "model": "Starbus",
+      "year": 2015,
+      "capacity": 40,
+      "licensePlate": "MH99AB2455"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 22.624242,
+      "longitude": 78.675005,
+      "heading": 136,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.521546"
+    },
+    "driverId": "68c0618cf9e87cc131494e38",
+    "schedule": {
+      "startTime": "07:15",
+      "endTime": "19:30",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-07T06:31:50.521539",
+      "nextServiceDate": "2025-11-25T06:31:50.521539",
+      "mileage": 159168,
+      "fuelLevel": 80
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.521551",
+      "deviceId": "DEV033",
+      "signalStrength": 90
+    },
+    "operationalData": {
+      "totalTrips": 8203,
+      "totalDistance": 50317,
+      "averageSpeed": 45,
+      "onTimePercentage": 100
+    }
+  },
+  {
+    "busNumber": "BUS034",
+    "routeId": "68c105c64491dc60c99313c1",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2020,
+      "capacity": 30,
+      "licensePlate": "MH67AB9770"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 10.223353,
+      "longitude": 81.598897,
+      "heading": 282,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.521577"
+    },
+    "driverId": "68c061a8f9e87cc131494ebc",
+    "schedule": {
+      "startTime": "07:45",
+      "endTime": "20:45",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-23T06:31:50.521570",
+      "nextServiceDate": "2025-11-01T06:31:50.521570",
+      "mileage": 122035,
+      "fuelLevel": 57
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.521582",
+      "deviceId": "DEV034",
+      "signalStrength": 80
+    },
+    "operationalData": {
+      "totalTrips": 6167,
+      "totalDistance": 119871,
+      "averageSpeed": 34,
+      "onTimePercentage": 84
+    }
+  },
+  {
+    "busNumber": "BUS035",
+    "routeId": "68c10e3a03c5575062515801",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2017,
+      "capacity": 40,
+      "licensePlate": "MH46AB2511"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 11.463395,
+      "longitude": 74.054995,
+      "heading": 263,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.521606"
+    },
+    "driverId": "68c06151f9e87cc131494d90",
+    "schedule": {
+      "startTime": "05:15",
+      "endTime": "21:30",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-03-30T06:31:50.521600",
+      "nextServiceDate": "2025-07-29T06:31:50.521600",
+      "mileage": 107810,
+      "fuelLevel": 51
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.521612",
+      "deviceId": "DEV035",
+      "signalStrength": 53
+    },
+    "operationalData": {
+      "totalTrips": 3408,
+      "totalDistance": 367214,
+      "averageSpeed": 51,
+      "onTimePercentage": 70
+    }
+  },
+  {
+    "busNumber": "BUS036",
+    "routeId": "68c10e3a03c557506251580b",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2018,
+      "capacity": 30,
+      "licensePlate": "MH97AB4510"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 23.625516,
+      "longitude": 70.096579,
+      "heading": 287,
+      "speed": 73,
+      "lastUpdated": "2025-09-10T06:31:50.521646"
+    },
+    "driverId": "68c060fff9e87cc131494c7f",
+    "schedule": {
+      "startTime": "05:15",
+      "endTime": "22:15",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-08-07T06:31:50.521633",
+      "nextServiceDate": "2025-11-26T06:31:50.521633",
+      "mileage": 119561,
+      "fuelLevel": 18
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.521658",
+      "deviceId": "DEV036",
+      "signalStrength": 86
+    },
+    "operationalData": {
+      "totalTrips": 6952,
+      "totalDistance": 11790,
+      "averageSpeed": 44,
+      "onTimePercentage": 82
+    }
+  },
+  {
+    "busNumber": "BUS037",
+    "routeId": "68c1089c4491dc60c99352d1",
+    "vehicleInfo": {
+      "make": "Tata",
+      "model": "Starbus",
+      "year": 2018,
+      "capacity": 50,
+      "licensePlate": "MH98AB8523"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 27.397965,
+      "longitude": 72.486793,
+      "heading": 85,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.521700"
+    },
+    "driverId": "68c061a2f9e87cc131494ea1",
+    "schedule": {
+      "startTime": "05:00",
+      "endTime": "20:00",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-21T06:31:50.521691",
+      "nextServiceDate": "2025-12-17T06:31:50.521691",
+      "mileage": 167909,
+      "fuelLevel": 93
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.521707",
+      "deviceId": "DEV037",
+      "signalStrength": 79
+    },
+    "operationalData": {
+      "totalTrips": 4435,
+      "totalDistance": 166316,
+      "averageSpeed": 22,
+      "onTimePercentage": 98
+    }
+  },
+  {
+    "busNumber": "BUS038",
+    "routeId": "68c105984491dc60c9930800",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2023,
+      "capacity": 50,
+      "licensePlate": "MH81AB5326"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 8.542106,
+      "longitude": 83.415832,
+      "heading": 101,
+      "speed": 42,
+      "lastUpdated": "2025-09-10T06:31:50.521733"
+    },
+    "driverId": "68c0617cf9e87cc131494df0",
+    "schedule": {
+      "startTime": "07:30",
+      "endTime": "18:00",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-03-18T06:31:50.521726",
+      "nextServiceDate": "2025-08-22T06:31:50.521726",
+      "mileage": 126090,
+      "fuelLevel": 92
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.521738",
+      "deviceId": "DEV038",
+      "signalStrength": 65
+    },
+    "operationalData": {
+      "totalTrips": 6800,
+      "totalDistance": 288565,
+      "averageSpeed": 21,
+      "onTimePercentage": 97
+    }
+  },
+  {
+    "busNumber": "BUS039",
+    "routeId": "68c107774491dc60c9932ac5",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2019,
+      "capacity": 30,
+      "licensePlate": "MH16AB7068"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 15.775244,
+      "longitude": 87.454256,
+      "heading": 76,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.521775"
+    },
+    "driverId": "68c06198f9e87cc131494e6e",
+    "schedule": {
+      "startTime": "07:30",
+      "endTime": "19:45",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-16T06:31:50.521762",
+      "nextServiceDate": "2025-11-11T06:31:50.521762",
+      "mileage": 61430,
+      "fuelLevel": 57
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.521785",
+      "deviceId": "DEV039",
+      "signalStrength": 86
+    },
+    "operationalData": {
+      "totalTrips": 2705,
+      "totalDistance": 1152,
+      "averageSpeed": 22,
+      "onTimePercentage": 87
+    }
+  },
+  {
+    "busNumber": "BUS040",
+    "routeId": "68c107184491dc60c9931aa0",
+    "vehicleInfo": {
+      "make": "Tata",
+      "model": "Starbus",
+      "year": 2010,
+      "capacity": 60,
+      "licensePlate": "MH86AB1086"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 10.239707,
+      "longitude": 75.2469,
+      "heading": 257,
+      "speed": 57,
+      "lastUpdated": "2025-09-10T06:31:50.521821"
+    },
+    "driverId": "68c06180f9e87cc131494e02",
+    "schedule": {
+      "startTime": "05:00",
+      "endTime": "18:30",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-30T06:31:50.521813",
+      "nextServiceDate": "2025-12-04T06:31:50.521813",
+      "mileage": 197086,
+      "fuelLevel": 50
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.521827",
+      "deviceId": "DEV040",
+      "signalStrength": 57
+    },
+    "operationalData": {
+      "totalTrips": 1592,
+      "totalDistance": 276299,
+      "averageSpeed": 39,
+      "onTimePercentage": 100
+    }
+  },
+  {
+    "busNumber": "BUS041",
+    "routeId": "68c1058a4491dc60c9930492",
+    "vehicleInfo": {
+      "make": "Eicher",
+      "model": "Skyline",
+      "year": 2021,
+      "capacity": 30,
+      "licensePlate": "MH81AB7911"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 19.657874,
+      "longitude": 84.373942,
+      "heading": 274,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.521851"
+    },
+    "driverId": "68c0618af9e87cc131494e2c",
+    "schedule": {
+      "startTime": "08:45",
+      "endTime": "21:00",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-29T06:31:50.521845",
+      "nextServiceDate": "2025-11-11T06:31:50.521845",
+      "mileage": 112151,
+      "fuelLevel": 58
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.521857",
+      "deviceId": "DEV041",
+      "signalStrength": 95
+    },
+    "operationalData": {
+      "totalTrips": 3798,
+      "totalDistance": 77799,
+      "averageSpeed": 23,
+      "onTimePercentage": 87
+    }
+  },
+  {
+    "busNumber": "BUS042",
+    "routeId": "68c107354491dc60c993201a",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2018,
+      "capacity": 40,
+      "licensePlate": "MH18AB8118"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 21.85116,
+      "longitude": 68.711497,
+      "heading": 90,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.521882"
+    },
+    "driverId": "68c06123f9e87cc131494cf1",
+    "schedule": {
+      "startTime": "07:30",
+      "endTime": "22:30",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-18T06:31:50.521875",
+      "nextServiceDate": "2025-09-08T06:31:50.521875",
+      "mileage": 57973,
+      "fuelLevel": 40
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.521890",
+      "deviceId": "DEV042",
+      "signalStrength": 99
+    },
+    "operationalData": {
+      "totalTrips": 831,
+      "totalDistance": 278684,
+      "averageSpeed": 47,
+      "onTimePercentage": 97
+    }
+  },
+  {
+    "busNumber": "BUS043",
+    "routeId": "68c105934491dc60c99306ed",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2017,
+      "capacity": 50,
+      "licensePlate": "MH69AB8736"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 15.07944,
+      "longitude": 70.329131,
+      "heading": 11,
+      "speed": 22,
+      "lastUpdated": "2025-09-10T06:31:50.521941"
+    },
+    "driverId": "68c0611bf9e87cc131494cd9",
+    "schedule": {
+      "startTime": "07:30",
+      "endTime": "21:45",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-18T06:31:50.521929",
+      "nextServiceDate": "2025-11-13T06:31:50.521929",
+      "mileage": 123138,
+      "fuelLevel": 72
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.521947",
+      "deviceId": "DEV043",
+      "signalStrength": 81
+    },
+    "operationalData": {
+      "totalTrips": 7452,
+      "totalDistance": 284860,
+      "averageSpeed": 60,
+      "onTimePercentage": 76
+    }
+  },
+  {
+    "busNumber": "BUS044",
+    "routeId": "68c108cd4491dc60c99360e2",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2020,
+      "capacity": 50,
+      "licensePlate": "MH34AB3203"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 14.181099,
+      "longitude": 70.05901,
+      "heading": 293,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522001"
+    },
+    "driverId": "68c06180f9e87cc131494dff",
+    "schedule": {
+      "startTime": "08:30",
+      "endTime": "18:00",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-26T06:31:50.521992",
+      "nextServiceDate": "2025-10-20T06:31:50.521992",
+      "mileage": 81922,
+      "fuelLevel": 34
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522007",
+      "deviceId": "DEV044",
+      "signalStrength": 96
+    },
+    "operationalData": {
+      "totalTrips": 7136,
+      "totalDistance": 269373,
+      "averageSpeed": 56,
+      "onTimePercentage": 89
+    }
+  },
+  {
+    "busNumber": "BUS045",
+    "routeId": "68c108c34491dc60c9935e0c",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2014,
+      "capacity": 60,
+      "licensePlate": "MH36AB4095"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 25.146453,
+      "longitude": 77.466746,
+      "heading": 334,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522042"
+    },
+    "driverId": "68c0610af9e87cc131494ca6",
+    "schedule": {
+      "startTime": "07:00",
+      "endTime": "23:45",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-08-04T06:31:50.522028",
+      "nextServiceDate": "2025-12-16T06:31:50.522028",
+      "mileage": 132330,
+      "fuelLevel": 50
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522052",
+      "deviceId": "DEV045",
+      "signalStrength": 59
+    },
+    "operationalData": {
+      "totalTrips": 1311,
+      "totalDistance": 90016,
+      "averageSpeed": 30,
+      "onTimePercentage": 97
+    }
+  },
+  {
+    "busNumber": "BUS046",
+    "routeId": "68c1056e4491dc60c99300d0",
+    "vehicleInfo": {
+      "make": "Tata",
+      "model": "Starbus",
+      "year": 2011,
+      "capacity": 40,
+      "licensePlate": "MH86AB4978"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 19.061483,
+      "longitude": 81.695431,
+      "heading": 19,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522092"
+    },
+    "driverId": "68c06182f9e87cc131494e08",
+    "schedule": {
+      "startTime": "05:45",
+      "endTime": "22:15",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-20T06:31:50.522085",
+      "nextServiceDate": "2025-08-04T06:31:50.522085",
+      "mileage": 49931,
+      "fuelLevel": 24
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522098",
+      "deviceId": "DEV046",
+      "signalStrength": 50
+    },
+    "operationalData": {
+      "totalTrips": 2662,
+      "totalDistance": 379205,
+      "averageSpeed": 49,
+      "onTimePercentage": 100
+    }
+  },
+  {
+    "busNumber": "BUS047",
+    "routeId": "68c10e3a03c55750625157bf",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2018,
+      "capacity": 50,
+      "licensePlate": "MH76AB3699"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 8.352133,
+      "longitude": 70.111633,
+      "heading": 339,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522126"
+    },
+    "driverId": "68c06188f9e87cc131494e23",
+    "schedule": {
+      "startTime": "06:30",
+      "endTime": "22:30",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-04T06:31:50.522119",
+      "nextServiceDate": "2025-11-22T06:31:50.522119",
+      "mileage": 194819,
+      "fuelLevel": 56
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522131",
+      "deviceId": "DEV047",
+      "signalStrength": 67
+    },
+    "operationalData": {
+      "totalTrips": 1407,
+      "totalDistance": 292248,
+      "averageSpeed": 26,
+      "onTimePercentage": 91
+    }
+  },
+  {
+    "busNumber": "BUS048",
+    "routeId": "68c105b74491dc60c9930fd9",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2022,
+      "capacity": 60,
+      "licensePlate": "MH77AB2780"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 23.578963,
+      "longitude": 84.25053,
+      "heading": 173,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522170"
+    },
+    "driverId": "68c06199f9e87cc131494e77",
+    "schedule": {
+      "startTime": "05:30",
+      "endTime": "18:30",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-27T06:31:50.522163",
+      "nextServiceDate": "2026-01-06T06:31:50.522163",
+      "mileage": 15427,
+      "fuelLevel": 29
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522180",
+      "deviceId": "DEV048",
+      "signalStrength": 81
+    },
+    "operationalData": {
+      "totalTrips": 3472,
+      "totalDistance": 212237,
+      "averageSpeed": 38,
+      "onTimePercentage": 92
+    }
+  },
+  {
+    "busNumber": "BUS049",
+    "routeId": "68c108604491dc60c99341ed",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2020,
+      "capacity": 40,
+      "licensePlate": "MH78AB9408"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 12.573897,
+      "longitude": 76.284332,
+      "heading": 60,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522235"
+    },
+    "driverId": "68c06192f9e87cc131494e56",
+    "schedule": {
+      "startTime": "09:00",
+      "endTime": "21:30",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-20T06:31:50.522218",
+      "nextServiceDate": "2025-10-16T06:31:50.522218",
+      "mileage": 39722,
+      "fuelLevel": 83
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522242",
+      "deviceId": "DEV049",
+      "signalStrength": 77
+    },
+    "operationalData": {
+      "totalTrips": 1133,
+      "totalDistance": 98364,
+      "averageSpeed": 22,
+      "onTimePercentage": 77
+    }
+  },
+  {
+    "busNumber": "BUS050",
+    "routeId": "68c105304491dc60c992fa2a",
+    "vehicleInfo": {
+      "make": "Eicher",
+      "model": "Skyline",
+      "year": 2017,
+      "capacity": 30,
+      "licensePlate": "MH28AB4130"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 18.384529,
+      "longitude": 79.43263,
+      "heading": 98,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522267"
+    },
+    "driverId": "68c0612ef9e87cc131494d18",
+    "schedule": {
+      "startTime": "08:45",
+      "endTime": "20:30",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-20T06:31:50.522261",
+      "nextServiceDate": "2025-08-23T06:31:50.522261",
+      "mileage": 34712,
+      "fuelLevel": 90
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522273",
+      "deviceId": "DEV050",
+      "signalStrength": 89
+    },
+    "operationalData": {
+      "totalTrips": 2859,
+      "totalDistance": 243724,
+      "averageSpeed": 25,
+      "onTimePercentage": 73
+    }
+  },
+  {
+    "busNumber": "BUS051",
+    "routeId": "68c105a84491dc60c9930c7b",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2018,
+      "capacity": 40,
+      "licensePlate": "MH76AB8374"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 8.71996,
+      "longitude": 72.890107,
+      "heading": 272,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522314"
+    },
+    "driverId": "68c06116f9e87cc131494cca",
+    "schedule": {
+      "startTime": "07:00",
+      "endTime": "21:45",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-08-04T06:31:50.522301",
+      "nextServiceDate": "2026-01-18T06:31:50.522301",
+      "mileage": 186723,
+      "fuelLevel": 89
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522436",
+      "deviceId": "DEV051",
+      "signalStrength": 97
+    },
+    "operationalData": {
+      "totalTrips": 4494,
+      "totalDistance": 394752,
+      "averageSpeed": 24,
+      "onTimePercentage": 87
+    }
+  },
+  {
+    "busNumber": "BUS052",
+    "routeId": "68c108824491dc60c9934b96",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2015,
+      "capacity": 60,
+      "licensePlate": "MH40AB3048"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 22.08577,
+      "longitude": 84.161615,
+      "heading": 137,
+      "speed": 29,
+      "lastUpdated": "2025-09-10T06:31:50.522481"
+    },
+    "driverId": "68c0614ef9e87cc131494d84",
+    "schedule": {
+      "startTime": "08:00",
+      "endTime": "23:15",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-09T06:31:50.522467",
+      "nextServiceDate": "2025-11-04T06:31:50.522467",
+      "mileage": 139336,
+      "fuelLevel": 100
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.522520",
+      "deviceId": "DEV052",
+      "signalStrength": 70
+    },
+    "operationalData": {
+      "totalTrips": 7654,
+      "totalDistance": 499232,
+      "averageSpeed": 26,
+      "onTimePercentage": 98
+    }
+  },
+  {
+    "busNumber": "BUS053",
+    "routeId": "68c105174491dc60c992f6d2",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2015,
+      "capacity": 30,
+      "licensePlate": "MH43AB8931"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 16.078176,
+      "longitude": 81.616527,
+      "heading": 101,
+      "speed": 43,
+      "lastUpdated": "2025-09-10T06:31:50.522583"
+    },
+    "driverId": "68c06119f9e87cc131494cd3",
+    "schedule": {
+      "startTime": "05:00",
+      "endTime": "21:00",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-23T06:31:50.522558",
+      "nextServiceDate": "2026-01-05T06:31:50.522558",
+      "mileage": 28161,
+      "fuelLevel": 65
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.522608",
+      "deviceId": "DEV053",
+      "signalStrength": 85
+    },
+    "operationalData": {
+      "totalTrips": 4066,
+      "totalDistance": 331612,
+      "averageSpeed": 38,
+      "onTimePercentage": 75
+    }
+  },
+  {
+    "busNumber": "BUS054",
+    "routeId": "68c1070b4491dc60c99317a7",
+    "vehicleInfo": {
+      "make": "Eicher",
+      "model": "Skyline",
+      "year": 2025,
+      "capacity": 40,
+      "licensePlate": "MH37AB5426"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 16.448781,
+      "longitude": 78.59855,
+      "heading": 300,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522651"
+    },
+    "driverId": "68c061a1f9e87cc131494e9e",
+    "schedule": {
+      "startTime": "09:15",
+      "endTime": "20:00",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-14T06:31:50.522638",
+      "nextServiceDate": "2025-11-25T06:31:50.522638",
+      "mileage": 64511,
+      "fuelLevel": 55
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522664",
+      "deviceId": "DEV054",
+      "signalStrength": 57
+    },
+    "operationalData": {
+      "totalTrips": 2205,
+      "totalDistance": 45561,
+      "averageSpeed": 22,
+      "onTimePercentage": 70
+    }
+  },
+  {
+    "busNumber": "BUS055",
+    "routeId": "68c105a04491dc60c9930abf",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2013,
+      "capacity": 40,
+      "licensePlate": "MH24AB7749"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 20.632749,
+      "longitude": 68.989519,
+      "heading": 116,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522693"
+    },
+    "driverId": "68c06104f9e87cc131494c91",
+    "schedule": {
+      "startTime": "06:15",
+      "endTime": "18:15",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-03-17T06:31:50.522686",
+      "nextServiceDate": "2025-07-09T06:31:50.522686",
+      "mileage": 44884,
+      "fuelLevel": 49
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522699",
+      "deviceId": "DEV055",
+      "signalStrength": 90
+    },
+    "operationalData": {
+      "totalTrips": 8144,
+      "totalDistance": 5093,
+      "averageSpeed": 58,
+      "onTimePercentage": 92
+    }
+  },
+  {
+    "busNumber": "BUS056",
+    "routeId": "68c107574491dc60c99324b4",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2012,
+      "capacity": 40,
+      "licensePlate": "MH62AB8036"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 19.067211,
+      "longitude": 76.566006,
+      "heading": 133,
+      "speed": 55,
+      "lastUpdated": "2025-09-10T06:31:50.522725"
+    },
+    "driverId": "68c06129f9e87cc131494d06",
+    "schedule": {
+      "startTime": "08:30",
+      "endTime": "20:45",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-02T06:31:50.522718",
+      "nextServiceDate": "2025-10-11T06:31:50.522718",
+      "mileage": 161128,
+      "fuelLevel": 25
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.522758",
+      "deviceId": "DEV056",
+      "signalStrength": 59
+    },
+    "operationalData": {
+      "totalTrips": 7930,
+      "totalDistance": 229734,
+      "averageSpeed": 54,
+      "onTimePercentage": 94
+    }
+  },
+  {
+    "busNumber": "BUS057",
+    "routeId": "68c1071f4491dc60c9931c01",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2014,
+      "capacity": 60,
+      "licensePlate": "MH39AB4599"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 17.565342,
+      "longitude": 72.980586,
+      "heading": 73,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522810"
+    },
+    "driverId": "68c06125f9e87cc131494cf7",
+    "schedule": {
+      "startTime": "07:15",
+      "endTime": "20:00",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-04T06:31:50.522796",
+      "nextServiceDate": "2025-10-12T06:31:50.522796",
+      "mileage": 155576,
+      "fuelLevel": 67
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522823",
+      "deviceId": "DEV057",
+      "signalStrength": 98
+    },
+    "operationalData": {
+      "totalTrips": 2164,
+      "totalDistance": 284858,
+      "averageSpeed": 37,
+      "onTimePercentage": 76
+    }
+  },
+  {
+    "busNumber": "BUS058",
+    "routeId": "68c1084d4491dc60c9933c3c",
+    "vehicleInfo": {
+      "make": "Eicher",
+      "model": "Skyline",
+      "year": 2014,
+      "capacity": 40,
+      "licensePlate": "MH93AB5444"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 27.940296,
+      "longitude": 87.268094,
+      "heading": 56,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522877"
+    },
+    "driverId": "68c06192f9e87cc131494e53",
+    "schedule": {
+      "startTime": "08:45",
+      "endTime": "19:30",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-27T06:31:50.522861",
+      "nextServiceDate": "2026-01-19T06:31:50.522861",
+      "mileage": 147191,
+      "fuelLevel": 28
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522883",
+      "deviceId": "DEV058",
+      "signalStrength": 53
+    },
+    "operationalData": {
+      "totalTrips": 3519,
+      "totalDistance": 215300,
+      "averageSpeed": 34,
+      "onTimePercentage": 89
+    }
+  },
+  {
+    "busNumber": "BUS059",
+    "routeId": "68c108334491dc60c9933569",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2019,
+      "capacity": 30,
+      "licensePlate": "MH87AB9379"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 14.756465,
+      "longitude": 79.426474,
+      "heading": 66,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522909"
+    },
+    "driverId": "68c0617ff9e87cc131494dfc",
+    "schedule": {
+      "startTime": "09:00",
+      "endTime": "20:30",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-04T06:31:50.522903",
+      "nextServiceDate": "2025-09-27T06:31:50.522903",
+      "mileage": 199339,
+      "fuelLevel": 48
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522915",
+      "deviceId": "DEV059",
+      "signalStrength": 70
+    },
+    "operationalData": {
+      "totalTrips": 448,
+      "totalDistance": 255533,
+      "averageSpeed": 55,
+      "onTimePercentage": 73
+    }
+  },
+  {
+    "busNumber": "BUS060",
+    "routeId": "68c105c24491dc60c9931231",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2014,
+      "capacity": 50,
+      "licensePlate": "MH82AB4755"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 26.850852,
+      "longitude": 81.281828,
+      "heading": 276,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522938"
+    },
+    "driverId": "68c0613ff9e87cc131494d51",
+    "schedule": {
+      "startTime": "08:30",
+      "endTime": "22:15",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-20T06:31:50.522932",
+      "nextServiceDate": "2025-08-23T06:31:50.522932",
+      "mileage": 26611,
+      "fuelLevel": 82
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522944",
+      "deviceId": "DEV060",
+      "signalStrength": 71
+    },
+    "operationalData": {
+      "totalTrips": 9925,
+      "totalDistance": 351509,
+      "averageSpeed": 26,
+      "onTimePercentage": 86
+    }
+  },
+  {
+    "busNumber": "BUS061",
+    "routeId": "68c108764491dc60c993485c",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2016,
+      "capacity": 40,
+      "licensePlate": "MH30AB2589"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 15.217711,
+      "longitude": 80.575397,
+      "heading": 164,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.522967"
+    },
+    "driverId": "68c06139f9e87cc131494d3f",
+    "schedule": {
+      "startTime": "07:15",
+      "endTime": "19:45",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-11T06:31:50.522961",
+      "nextServiceDate": "2025-09-14T06:31:50.522961",
+      "mileage": 178636,
+      "fuelLevel": 72
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.522973",
+      "deviceId": "DEV061",
+      "signalStrength": 70
+    },
+    "operationalData": {
+      "totalTrips": 770,
+      "totalDistance": 138914,
+      "averageSpeed": 49,
+      "onTimePercentage": 100
+    }
+  },
+  {
+    "busNumber": "BUS062",
+    "routeId": "68c1083a4491dc60c993371a",
+    "vehicleInfo": {
+      "make": "Eicher",
+      "model": "Skyline",
+      "year": 2015,
+      "capacity": 50,
+      "licensePlate": "MH65AB1996"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 21.762399,
+      "longitude": 71.081123,
+      "heading": 338,
+      "speed": 55,
+      "lastUpdated": "2025-09-10T06:31:50.522997"
+    },
+    "driverId": "68c06107f9e87cc131494c9a",
+    "schedule": {
+      "startTime": "07:15",
+      "endTime": "18:45",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-03-29T06:31:50.522991",
+      "nextServiceDate": "2025-08-02T06:31:50.522991",
+      "mileage": 59489,
+      "fuelLevel": 33
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.523004",
+      "deviceId": "DEV062",
+      "signalStrength": 60
+    },
+    "operationalData": {
+      "totalTrips": 2816,
+      "totalDistance": 100868,
+      "averageSpeed": 29,
+      "onTimePercentage": 90
+    }
+  },
+  {
+    "busNumber": "BUS063",
+    "routeId": "68c107644491dc60c9932675",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2024,
+      "capacity": 30,
+      "licensePlate": "MH69AB6697"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 15.827185,
+      "longitude": 80.678587,
+      "heading": 173,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523028"
+    },
+    "driverId": "68c06174f9e87cc131494dc3",
+    "schedule": {
+      "startTime": "06:00",
+      "endTime": "18:45",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-12T06:31:50.523022",
+      "nextServiceDate": "2025-09-30T06:31:50.523022",
+      "mileage": 180621,
+      "fuelLevel": 71
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523034",
+      "deviceId": "DEV063",
+      "signalStrength": 70
+    },
+    "operationalData": {
+      "totalTrips": 7204,
+      "totalDistance": 23231,
+      "averageSpeed": 54,
+      "onTimePercentage": 99
+    }
+  },
+  {
+    "busNumber": "BUS064",
+    "routeId": "68c108df4491dc60c9936591",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2025,
+      "capacity": 40,
+      "licensePlate": "MH99AB9240"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 17.788788,
+      "longitude": 84.395887,
+      "heading": 346,
+      "speed": 18,
+      "lastUpdated": "2025-09-10T06:31:50.523060"
+    },
+    "driverId": "68c06194f9e87cc131494e5c",
+    "schedule": {
+      "startTime": "09:15",
+      "endTime": "22:30",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-08-04T06:31:50.523053",
+      "nextServiceDate": "2025-12-28T06:31:50.523053",
+      "mileage": 147331,
+      "fuelLevel": 73
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.523065",
+      "deviceId": "DEV064",
+      "signalStrength": 94
+    },
+    "operationalData": {
+      "totalTrips": 7312,
+      "totalDistance": 422651,
+      "averageSpeed": 27,
+      "onTimePercentage": 82
+    }
+  },
+  {
+    "busNumber": "BUS065",
+    "routeId": "68c105774491dc60c9930207",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2020,
+      "capacity": 60,
+      "licensePlate": "MH86AB8420"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 25.034255,
+      "longitude": 69.710716,
+      "heading": 300,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523090"
+    },
+    "driverId": "68c06190f9e87cc131494e4a",
+    "schedule": {
+      "startTime": "06:30",
+      "endTime": "18:45",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-19T06:31:50.523083",
+      "nextServiceDate": "2025-11-11T06:31:50.523083",
+      "mileage": 81585,
+      "fuelLevel": 44
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523096",
+      "deviceId": "DEV065",
+      "signalStrength": 72
+    },
+    "operationalData": {
+      "totalTrips": 7778,
+      "totalDistance": 73846,
+      "averageSpeed": 43,
+      "onTimePercentage": 91
+    }
+  },
+  {
+    "busNumber": "BUS066",
+    "routeId": "68c1073d4491dc60c99321a4",
+    "vehicleInfo": {
+      "make": "Eicher",
+      "model": "Skyline",
+      "year": 2014,
+      "capacity": 30,
+      "licensePlate": "MH26AB8168"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 24.322688,
+      "longitude": 79.135996,
+      "heading": 77,
+      "speed": 80,
+      "lastUpdated": "2025-09-10T06:31:50.523144"
+    },
+    "driverId": "68c0614bf9e87cc131494d7b",
+    "schedule": {
+      "startTime": "09:30",
+      "endTime": "22:15",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-23T06:31:50.523131",
+      "nextServiceDate": "2025-08-25T06:31:50.523131",
+      "mileage": 140001,
+      "fuelLevel": 98
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.523155",
+      "deviceId": "DEV066",
+      "signalStrength": 85
+    },
+    "operationalData": {
+      "totalTrips": 9844,
+      "totalDistance": 135393,
+      "averageSpeed": 40,
+      "onTimePercentage": 71
+    }
+  },
+  {
+    "busNumber": "BUS067",
+    "routeId": "68c108544491dc60c9933ec1",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2014,
+      "capacity": 40,
+      "licensePlate": "MH87AB5358"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 15.323316,
+      "longitude": 73.213588,
+      "heading": 158,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523205"
+    },
+    "driverId": "68c0615af9e87cc131494db4",
+    "schedule": {
+      "startTime": "07:45",
+      "endTime": "22:15",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-28T06:31:50.523191",
+      "nextServiceDate": "2025-10-11T06:31:50.523191",
+      "mileage": 160723,
+      "fuelLevel": 18
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523212",
+      "deviceId": "DEV067",
+      "signalStrength": 64
+    },
+    "operationalData": {
+      "totalTrips": 1382,
+      "totalDistance": 206065,
+      "averageSpeed": 46,
+      "onTimePercentage": 90
+    }
+  },
+  {
+    "busNumber": "BUS068",
+    "routeId": "68c108954491dc60c99350a7",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2011,
+      "capacity": 60,
+      "licensePlate": "MH51AB7544"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 9.942387,
+      "longitude": 82.477795,
+      "heading": 357,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523244"
+    },
+    "driverId": "68c0610ef9e87cc131494cb2",
+    "schedule": {
+      "startTime": "09:30",
+      "endTime": "18:30",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-27T06:31:50.523232",
+      "nextServiceDate": "2025-10-27T06:31:50.523232",
+      "mileage": 43228,
+      "fuelLevel": 91
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523257",
+      "deviceId": "DEV068",
+      "signalStrength": 55
+    },
+    "operationalData": {
+      "totalTrips": 9360,
+      "totalDistance": 142447,
+      "averageSpeed": 44,
+      "onTimePercentage": 74
+    }
+  },
+  {
+    "busNumber": "BUS069",
+    "routeId": "68c1059f4491dc60c9930a30",
+    "vehicleInfo": {
+      "make": "Eicher",
+      "model": "Skyline",
+      "year": 2017,
+      "capacity": 30,
+      "licensePlate": "MH16AB2807"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 11.709598,
+      "longitude": 77.743196,
+      "heading": 261,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523307"
+    },
+    "driverId": "68c0614ef9e87cc131494d87",
+    "schedule": {
+      "startTime": "08:00",
+      "endTime": "19:00",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-21T06:31:50.523298",
+      "nextServiceDate": "2025-10-13T06:31:50.523298",
+      "mileage": 101084,
+      "fuelLevel": 67
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523315",
+      "deviceId": "DEV069",
+      "signalStrength": 89
+    },
+    "operationalData": {
+      "totalTrips": 8693,
+      "totalDistance": 27964,
+      "averageSpeed": 55,
+      "onTimePercentage": 75
+    }
+  },
+  {
+    "busNumber": "BUS070",
+    "routeId": "68c108b84491dc60c9935a59",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2019,
+      "capacity": 60,
+      "licensePlate": "MH55AB5649"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 8.563132,
+      "longitude": 83.669245,
+      "heading": 125,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523341"
+    },
+    "driverId": "68c06150f9e87cc131494d8d",
+    "schedule": {
+      "startTime": "09:45",
+      "endTime": "18:15",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-03-29T06:31:50.523334",
+      "nextServiceDate": "2025-08-31T06:31:50.523334",
+      "mileage": 35625,
+      "fuelLevel": 44
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523346",
+      "deviceId": "DEV070",
+      "signalStrength": 60
+    },
+    "operationalData": {
+      "totalTrips": 3948,
+      "totalDistance": 213470,
+      "averageSpeed": 54,
+      "onTimePercentage": 89
+    }
+  },
+  {
+    "busNumber": "BUS071",
+    "routeId": "68c105494491dc60c992fd7d",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2015,
+      "capacity": 60,
+      "licensePlate": "MH15AB8661"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 10.946262,
+      "longitude": 84.556697,
+      "heading": 49,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523403"
+    },
+    "driverId": "68c06129f9e87cc131494d09",
+    "schedule": {
+      "startTime": "06:30",
+      "endTime": "20:15",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-03-27T06:31:50.523383",
+      "nextServiceDate": "2025-08-06T06:31:50.523383",
+      "mileage": 110205,
+      "fuelLevel": 38
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523418",
+      "deviceId": "DEV071",
+      "signalStrength": 81
+    },
+    "operationalData": {
+      "totalTrips": 6767,
+      "totalDistance": 29588,
+      "averageSpeed": 52,
+      "onTimePercentage": 70
+    }
+  },
+  {
+    "busNumber": "BUS072",
+    "routeId": "68c1085d4491dc60c9934111",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2020,
+      "capacity": 50,
+      "licensePlate": "MH41AB2424"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 20.626606,
+      "longitude": 77.433102,
+      "heading": 317,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523452"
+    },
+    "driverId": "68c061a1f9e87cc131494e9b",
+    "schedule": {
+      "startTime": "09:30",
+      "endTime": "18:15",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-17T06:31:50.523444",
+      "nextServiceDate": "2025-10-20T06:31:50.523444",
+      "mileage": 94811,
+      "fuelLevel": 72
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523458",
+      "deviceId": "DEV072",
+      "signalStrength": 84
+    },
+    "operationalData": {
+      "totalTrips": 5807,
+      "totalDistance": 400281,
+      "averageSpeed": 27,
+      "onTimePercentage": 91
+    }
+  },
+  {
+    "busNumber": "BUS073",
+    "routeId": "68c10e3a03c55750625157db",
+    "vehicleInfo": {
+      "make": "Tata",
+      "model": "Starbus",
+      "year": 2022,
+      "capacity": 30,
+      "licensePlate": "MH58AB5302"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 18.486586,
+      "longitude": 80.571732,
+      "heading": 141,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523499"
+    },
+    "driverId": "68c06196f9e87cc131494e68",
+    "schedule": {
+      "startTime": "05:15",
+      "endTime": "23:45",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-08-02T06:31:50.523491",
+      "nextServiceDate": "2025-11-17T06:31:50.523491",
+      "mileage": 82406,
+      "fuelLevel": 50
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523507",
+      "deviceId": "DEV073",
+      "signalStrength": 94
+    },
+    "operationalData": {
+      "totalTrips": 859,
+      "totalDistance": 351093,
+      "averageSpeed": 55,
+      "onTimePercentage": 89
+    }
+  },
+  {
+    "busNumber": "BUS074",
+    "routeId": "68c105414491dc60c992fc66",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2016,
+      "capacity": 30,
+      "licensePlate": "MH72AB6649"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 20.831908,
+      "longitude": 76.751978,
+      "heading": 200,
+      "speed": 40,
+      "lastUpdated": "2025-09-10T06:31:50.523532"
+    },
+    "driverId": "68c06102f9e87cc131494c88",
+    "schedule": {
+      "startTime": "06:15",
+      "endTime": "18:15",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-16T06:31:50.523526",
+      "nextServiceDate": "2025-11-02T06:31:50.523526",
+      "mileage": 179940,
+      "fuelLevel": 78
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.523538",
+      "deviceId": "DEV074",
+      "signalStrength": 81
+    },
+    "operationalData": {
+      "totalTrips": 6801,
+      "totalDistance": 248606,
+      "averageSpeed": 43,
+      "onTimePercentage": 82
+    }
+  },
+  {
+    "busNumber": "BUS075",
+    "routeId": "68c1086b4491dc60c993458b",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2015,
+      "capacity": 60,
+      "licensePlate": "MH16AB2229"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 24.592072,
+      "longitude": 84.239614,
+      "heading": 108,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523581"
+    },
+    "driverId": "68c06130f9e87cc131494d1e",
+    "schedule": {
+      "startTime": "07:30",
+      "endTime": "19:00",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-01T06:31:50.523567",
+      "nextServiceDate": "2025-11-18T06:31:50.523567",
+      "mileage": 44824,
+      "fuelLevel": 33
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523593",
+      "deviceId": "DEV075",
+      "signalStrength": 60
+    },
+    "operationalData": {
+      "totalTrips": 1712,
+      "totalDistance": 416769,
+      "averageSpeed": 42,
+      "onTimePercentage": 100
+    }
+  },
+  {
+    "busNumber": "BUS076",
+    "routeId": "68c1052c4491dc60c992f98e",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2023,
+      "capacity": 30,
+      "licensePlate": "MH54AB5197"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 15.030379,
+      "longitude": 68.283728,
+      "heading": 261,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523628"
+    },
+    "driverId": "68c0612ff9e87cc131494d1b",
+    "schedule": {
+      "startTime": "06:45",
+      "endTime": "22:15",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-08T06:31:50.523620",
+      "nextServiceDate": "2025-11-22T06:31:50.523620",
+      "mileage": 117284,
+      "fuelLevel": 28
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523633",
+      "deviceId": "DEV076",
+      "signalStrength": 83
+    },
+    "operationalData": {
+      "totalTrips": 6547,
+      "totalDistance": 75805,
+      "averageSpeed": 36,
+      "onTimePercentage": 92
+    }
+  },
+  {
+    "busNumber": "BUS077",
+    "routeId": "68c1077d4491dc60c9932c4d",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2021,
+      "capacity": 50,
+      "licensePlate": "MH36AB1437"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 20.214763,
+      "longitude": 83.576264,
+      "heading": 134,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523663"
+    },
+    "driverId": "68c0617af9e87cc131494de4",
+    "schedule": {
+      "startTime": "08:30",
+      "endTime": "22:45",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-17T06:31:50.523651",
+      "nextServiceDate": "2025-11-14T06:31:50.523651",
+      "mileage": 84454,
+      "fuelLevel": 56
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523672",
+      "deviceId": "DEV077",
+      "signalStrength": 91
+    },
+    "operationalData": {
+      "totalTrips": 4764,
+      "totalDistance": 176819,
+      "averageSpeed": 33,
+      "onTimePercentage": 91
+    }
+  },
+  {
+    "busNumber": "BUS078",
+    "routeId": "68c10e3a03c55750625157e8",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2022,
+      "capacity": 50,
+      "licensePlate": "MH36AB8666"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 15.689517,
+      "longitude": 80.580529,
+      "heading": 51,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523721"
+    },
+    "driverId": "68c06118f9e87cc131494cd0",
+    "schedule": {
+      "startTime": "08:15",
+      "endTime": "23:00",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-03-18T06:31:50.523711",
+      "nextServiceDate": "2025-07-09T06:31:50.523711",
+      "mileage": 184455,
+      "fuelLevel": 76
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523727",
+      "deviceId": "DEV078",
+      "signalStrength": 97
+    },
+    "operationalData": {
+      "totalTrips": 3399,
+      "totalDistance": 309160,
+      "averageSpeed": 45,
+      "onTimePercentage": 97
+    }
+  },
+  {
+    "busNumber": "BUS079",
+    "routeId": "68c1087e4491dc60c9934ac1",
+    "vehicleInfo": {
+      "make": "Eicher",
+      "model": "Skyline",
+      "year": 2017,
+      "capacity": 60,
+      "licensePlate": "MH42AB5373"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 18.177164,
+      "longitude": 76.197854,
+      "heading": 129,
+      "speed": 29,
+      "lastUpdated": "2025-09-10T06:31:50.523754"
+    },
+    "driverId": "68c0619cf9e87cc131494e83",
+    "schedule": {
+      "startTime": "05:30",
+      "endTime": "18:45",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-16T06:31:50.523748",
+      "nextServiceDate": "2025-07-30T06:31:50.523748",
+      "mileage": 95421,
+      "fuelLevel": 20
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.523760",
+      "deviceId": "DEV079",
+      "signalStrength": 58
+    },
+    "operationalData": {
+      "totalTrips": 850,
+      "totalDistance": 31655,
+      "averageSpeed": 52,
+      "onTimePercentage": 86
+    }
+  },
+  {
+    "busNumber": "BUS080",
+    "routeId": "68c1078b4491dc60c9932ffe",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2023,
+      "capacity": 30,
+      "licensePlate": "MH12AB3275"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 24.562282,
+      "longitude": 70.400428,
+      "heading": 122,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523786"
+    },
+    "driverId": "68c061a8f9e87cc131494ebf",
+    "schedule": {
+      "startTime": "09:30",
+      "endTime": "21:15",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-13T06:31:50.523779",
+      "nextServiceDate": "2025-10-11T06:31:50.523779",
+      "mileage": 104607,
+      "fuelLevel": 55
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523791",
+      "deviceId": "DEV080",
+      "signalStrength": 76
+    },
+    "operationalData": {
+      "totalTrips": 5412,
+      "totalDistance": 104582,
+      "averageSpeed": 31,
+      "onTimePercentage": 93
+    }
+  },
+  {
+    "busNumber": "BUS081",
+    "routeId": "68c107924491dc60c99331d0",
+    "vehicleInfo": {
+      "make": "Tata",
+      "model": "Starbus",
+      "year": 2016,
+      "capacity": 60,
+      "licensePlate": "MH39AB6380"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 24.425754,
+      "longitude": 77.957363,
+      "heading": 101,
+      "speed": 44,
+      "lastUpdated": "2025-09-10T06:31:50.523829"
+    },
+    "driverId": "68c0617bf9e87cc131494de7",
+    "schedule": {
+      "startTime": "07:45",
+      "endTime": "18:45",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-07T06:31:50.523816",
+      "nextServiceDate": "2025-09-19T06:31:50.523816",
+      "mileage": 38592,
+      "fuelLevel": 61
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.523840",
+      "deviceId": "DEV081",
+      "signalStrength": 61
+    },
+    "operationalData": {
+      "totalTrips": 6353,
+      "totalDistance": 483562,
+      "averageSpeed": 57,
+      "onTimePercentage": 92
+    }
+  },
+  {
+    "busNumber": "BUS082",
+    "routeId": "68c108af4491dc60c993582c",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2011,
+      "capacity": 60,
+      "licensePlate": "MH50AB2513"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 8.489833,
+      "longitude": 81.34386,
+      "heading": 223,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523878"
+    },
+    "driverId": "68c06159f9e87cc131494dae",
+    "schedule": {
+      "startTime": "05:15",
+      "endTime": "20:00",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-26T06:31:50.523870",
+      "nextServiceDate": "2025-10-27T06:31:50.523870",
+      "mileage": 147988,
+      "fuelLevel": 63
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523884",
+      "deviceId": "DEV082",
+      "signalStrength": 83
+    },
+    "operationalData": {
+      "totalTrips": 6746,
+      "totalDistance": 307568,
+      "averageSpeed": 60,
+      "onTimePercentage": 91
+    }
+  },
+  {
+    "busNumber": "BUS083",
+    "routeId": "68c105114491dc60c992f610",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2014,
+      "capacity": 60,
+      "licensePlate": "MH72AB5153"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 16.414501,
+      "longitude": 81.59274,
+      "heading": 11,
+      "speed": 34,
+      "lastUpdated": "2025-09-10T06:31:50.523908"
+    },
+    "driverId": "68c06187f9e87cc131494e20",
+    "schedule": {
+      "startTime": "06:30",
+      "endTime": "19:00",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-03T06:31:50.523902",
+      "nextServiceDate": "2025-09-21T06:31:50.523902",
+      "mileage": 26687,
+      "fuelLevel": 78
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.523916",
+      "deviceId": "DEV083",
+      "signalStrength": 58
+    },
+    "operationalData": {
+      "totalTrips": 7814,
+      "totalDistance": 316315,
+      "averageSpeed": 57,
+      "onTimePercentage": 97
+    }
+  },
+  {
+    "busNumber": "BUS084",
+    "routeId": "68c105c64491dc60c99313c1",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2013,
+      "capacity": 60,
+      "licensePlate": "MH37AB8775"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 25.762754,
+      "longitude": 70.987809,
+      "heading": 331,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523963"
+    },
+    "driverId": "68c06100f9e87cc131494c82",
+    "schedule": {
+      "startTime": "09:45",
+      "endTime": "20:15",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-14T06:31:50.523950",
+      "nextServiceDate": "2025-09-28T06:31:50.523950",
+      "mileage": 47571,
+      "fuelLevel": 47
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.523971",
+      "deviceId": "DEV084",
+      "signalStrength": 81
+    },
+    "operationalData": {
+      "totalTrips": 2924,
+      "totalDistance": 108915,
+      "averageSpeed": 43,
+      "onTimePercentage": 79
+    }
+  },
+  {
+    "busNumber": "BUS085",
+    "routeId": "68c10e3a03c5575062515801",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2022,
+      "capacity": 30,
+      "licensePlate": "MH44AB3035"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 10.093532,
+      "longitude": 73.234806,
+      "heading": 322,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.523997"
+    },
+    "driverId": "68c0611ef9e87cc131494ce5",
+    "schedule": {
+      "startTime": "06:15",
+      "endTime": "22:45",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-28T06:31:50.523990",
+      "nextServiceDate": "2025-11-06T06:31:50.523990",
+      "mileage": 139263,
+      "fuelLevel": 56
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.524004",
+      "deviceId": "DEV085",
+      "signalStrength": 73
+    },
+    "operationalData": {
+      "totalTrips": 4156,
+      "totalDistance": 244214,
+      "averageSpeed": 42,
+      "onTimePercentage": 88
+    }
+  },
+  {
+    "busNumber": "BUS086",
+    "routeId": "68c10e3a03c557506251580b",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2014,
+      "capacity": 30,
+      "licensePlate": "MH64AB6059"
+    },
+    "currentStatus": "breakdown",
+    "location": {
+      "latitude": 27.593579,
+      "longitude": 81.529802,
+      "heading": 229,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.524037"
+    },
+    "driverId": "68c06142f9e87cc131494d5d",
+    "schedule": {
+      "startTime": "09:45",
+      "endTime": "21:00",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-02T06:31:50.524024",
+      "nextServiceDate": "2025-09-28T06:31:50.524024",
+      "mileage": 15518,
+      "fuelLevel": 76
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.524048",
+      "deviceId": "DEV086",
+      "signalStrength": 85
+    },
+    "operationalData": {
+      "totalTrips": 2942,
+      "totalDistance": 67518,
+      "averageSpeed": 37,
+      "onTimePercentage": 89
+    }
+  },
+  {
+    "busNumber": "BUS087",
+    "routeId": "68c1089c4491dc60c99352d1",
+    "vehicleInfo": {
+      "make": "Mercedes-Benz",
+      "model": "Citaro",
+      "year": 2023,
+      "capacity": 40,
+      "licensePlate": "MH61AB2450"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 10.479686,
+      "longitude": 73.762554,
+      "heading": 337,
+      "speed": 25,
+      "lastUpdated": "2025-09-10T06:31:50.524094"
+    },
+    "driverId": "68c0617ef9e87cc131494df6",
+    "schedule": {
+      "startTime": "07:00",
+      "endTime": "22:30",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-07T06:31:50.524087",
+      "nextServiceDate": "2025-09-29T06:31:50.524087",
+      "mileage": 11856,
+      "fuelLevel": 26
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.524101",
+      "deviceId": "DEV087",
+      "signalStrength": 69
+    },
+    "operationalData": {
+      "totalTrips": 6806,
+      "totalDistance": 409657,
+      "averageSpeed": 56,
+      "onTimePercentage": 89
+    }
+  },
+  {
+    "busNumber": "BUS088",
+    "routeId": "68c105984491dc60c9930800",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2012,
+      "capacity": 50,
+      "licensePlate": "MH15AB9825"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 16.815189,
+      "longitude": 86.667953,
+      "heading": 202,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.524125"
+    },
+    "driverId": "68c06141f9e87cc131494d5a",
+    "schedule": {
+      "startTime": "08:30",
+      "endTime": "22:45",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-15T06:31:50.524119",
+      "nextServiceDate": "2025-10-26T06:31:50.524119",
+      "mileage": 110480,
+      "fuelLevel": 70
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.524131",
+      "deviceId": "DEV088",
+      "signalStrength": 54
+    },
+    "operationalData": {
+      "totalTrips": 1942,
+      "totalDistance": 346733,
+      "averageSpeed": 53,
+      "onTimePercentage": 77
+    }
+  },
+  {
+    "busNumber": "BUS089",
+    "routeId": "68c107774491dc60c9932ac5",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2013,
+      "capacity": 50,
+      "licensePlate": "MH18AB1532"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 11.962016,
+      "longitude": 75.406701,
+      "heading": 102,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.524156"
+    },
+    "driverId": "68c06193f9e87cc131494e59",
+    "schedule": {
+      "startTime": "09:15",
+      "endTime": "22:30",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-03-15T06:31:50.524148",
+      "nextServiceDate": "2025-06-21T06:31:50.524148",
+      "mileage": 31467,
+      "fuelLevel": 13
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.524163",
+      "deviceId": "DEV089",
+      "signalStrength": 53
+    },
+    "operationalData": {
+      "totalTrips": 1125,
+      "totalDistance": 209110,
+      "averageSpeed": 32,
+      "onTimePercentage": 86
+    }
+  },
+  {
+    "busNumber": "BUS090",
+    "routeId": "68c107184491dc60c9931aa0",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2013,
+      "capacity": 60,
+      "licensePlate": "MH75AB5322"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 27.914212,
+      "longitude": 87.208888,
+      "heading": 213,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.524212"
+    },
+    "driverId": "68c06178f9e87cc131494dd8",
+    "schedule": {
+      "startTime": "09:15",
+      "endTime": "18:00",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-28T06:31:50.524198",
+      "nextServiceDate": "2025-08-27T06:31:50.524198",
+      "mileage": 92270,
+      "fuelLevel": 26
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.524219",
+      "deviceId": "DEV090",
+      "signalStrength": 97
+    },
+    "operationalData": {
+      "totalTrips": 5836,
+      "totalDistance": 240352,
+      "averageSpeed": 47,
+      "onTimePercentage": 89
+    }
+  },
+  {
+    "busNumber": "BUS091",
+    "routeId": "68c1058a4491dc60c9930492",
+    "vehicleInfo": {
+      "make": "Volvo",
+      "model": "9400",
+      "year": 2010,
+      "capacity": 60,
+      "licensePlate": "MH48AB3286"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 17.030341,
+      "longitude": 70.597408,
+      "heading": 207,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.524259"
+    },
+    "driverId": "68c06174f9e87cc131494dc6",
+    "schedule": {
+      "startTime": "07:45",
+      "endTime": "18:15",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-22T06:31:50.524246",
+      "nextServiceDate": "2025-11-14T06:31:50.524246",
+      "mileage": 169320,
+      "fuelLevel": 11
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.524270",
+      "deviceId": "DEV091",
+      "signalStrength": 89
+    },
+    "operationalData": {
+      "totalTrips": 2136,
+      "totalDistance": 60475,
+      "averageSpeed": 49,
+      "onTimePercentage": 81
+    }
+  },
+  {
+    "busNumber": "BUS092",
+    "routeId": "68c107354491dc60c993201a",
+    "vehicleInfo": {
+      "make": "Tata",
+      "model": "Starbus",
+      "year": 2019,
+      "capacity": 50,
+      "licensePlate": "MH55AB3029"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 19.619493,
+      "longitude": 79.000468,
+      "heading": 1,
+      "speed": 26,
+      "lastUpdated": "2025-09-10T06:31:50.524313"
+    },
+    "driverId": "68c06196f9e87cc131494e65",
+    "schedule": {
+      "startTime": "06:00",
+      "endTime": "22:45",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-08-01T06:31:50.524305",
+      "nextServiceDate": "2025-12-23T06:31:50.524305",
+      "mileage": 23267,
+      "fuelLevel": 23
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.524319",
+      "deviceId": "DEV092",
+      "signalStrength": 58
+    },
+    "operationalData": {
+      "totalTrips": 7509,
+      "totalDistance": 331012,
+      "averageSpeed": 51,
+      "onTimePercentage": 95
+    }
+  },
+  {
+    "busNumber": "BUS093",
+    "routeId": "68c105934491dc60c99306ed",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2024,
+      "capacity": 40,
+      "licensePlate": "MH51AB8250"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 8.405298,
+      "longitude": 72.252667,
+      "heading": 31,
+      "speed": 38,
+      "lastUpdated": "2025-09-10T06:31:50.524344"
+    },
+    "driverId": "68c0610bf9e87cc131494ca9",
+    "schedule": {
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-30T06:31:50.524338",
+      "nextServiceDate": "2025-10-16T06:31:50.524338",
+      "mileage": 31318,
+      "fuelLevel": 50
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.524349",
+      "deviceId": "DEV093",
+      "signalStrength": 95
+    },
+    "operationalData": {
+      "totalTrips": 9054,
+      "totalDistance": 142143,
+      "averageSpeed": 49,
+      "onTimePercentage": 97
+    }
+  },
+  {
+    "busNumber": "BUS094",
+    "routeId": "68c108cd4491dc60c99360e2",
+    "vehicleInfo": {
+      "make": "Tata",
+      "model": "Starbus",
+      "year": 2019,
+      "capacity": 40,
+      "licensePlate": "MH42AB6982"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 11.38806,
+      "longitude": 85.269008,
+      "heading": 258,
+      "speed": 54,
+      "lastUpdated": "2025-09-10T06:31:50.524375"
+    },
+    "driverId": "68c0618ef9e87cc131494e3e",
+    "schedule": {
+      "startTime": "07:15",
+      "endTime": "23:00",
+      "frequency": 15
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-07-18T06:31:50.524369",
+      "nextServiceDate": "2025-10-17T06:31:50.524369",
+      "mileage": 106232,
+      "fuelLevel": 19
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.524380",
+      "deviceId": "DEV094",
+      "signalStrength": 70
+    },
+    "operationalData": {
+      "totalTrips": 1159,
+      "totalDistance": 200048,
+      "averageSpeed": 55,
+      "onTimePercentage": 82
+    }
+  },
+  {
+    "busNumber": "BUS095",
+    "routeId": "68c108c34491dc60c9935e0c",
+    "vehicleInfo": {
+      "make": "Tata",
+      "model": "Starbus",
+      "year": 2021,
+      "capacity": 40,
+      "licensePlate": "MH45AB1387"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 12.728883,
+      "longitude": 70.865976,
+      "heading": 231,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.524406"
+    },
+    "driverId": "68c06126f9e87cc131494cfd",
+    "schedule": {
+      "startTime": "06:15",
+      "endTime": "23:30",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-29T06:31:50.524400",
+      "nextServiceDate": "2025-10-12T06:31:50.524400",
+      "mileage": 117237,
+      "fuelLevel": 54
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.524412",
+      "deviceId": "DEV095",
+      "signalStrength": 75
+    },
+    "operationalData": {
+      "totalTrips": 7070,
+      "totalDistance": 174153,
+      "averageSpeed": 50,
+      "onTimePercentage": 99
+    }
+  },
+  {
+    "busNumber": "BUS096",
+    "routeId": "68c1056e4491dc60c99300d0",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2013,
+      "capacity": 30,
+      "licensePlate": "MH68AB8202"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 21.581151,
+      "longitude": 82.541949,
+      "heading": 198,
+      "speed": 24,
+      "lastUpdated": "2025-09-10T06:31:50.524438"
+    },
+    "driverId": "68c06181f9e87cc131494e05",
+    "schedule": {
+      "startTime": "06:15",
+      "endTime": "20:00",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-07T06:31:50.524431",
+      "nextServiceDate": "2025-11-07T06:31:50.524431",
+      "mileage": 138729,
+      "fuelLevel": 10
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.524443",
+      "deviceId": "DEV096",
+      "signalStrength": 69
+    },
+    "operationalData": {
+      "totalTrips": 2098,
+      "totalDistance": 219063,
+      "averageSpeed": 57,
+      "onTimePercentage": 84
+    }
+  },
+  {
+    "busNumber": "BUS097",
+    "routeId": "68c10e3a03c55750625157bf",
+    "vehicleInfo": {
+      "make": "Scania",
+      "model": "Metrolink",
+      "year": 2019,
+      "capacity": 50,
+      "licensePlate": "MH64AB7460"
+    },
+    "currentStatus": "maintenance",
+    "location": {
+      "latitude": 10.339003,
+      "longitude": 87.823984,
+      "heading": 274,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.524466"
+    },
+    "driverId": "68c061a6f9e87cc131494eb6",
+    "schedule": {
+      "startTime": "06:15",
+      "endTime": "21:15",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-06-15T06:31:50.524460",
+      "nextServiceDate": "2025-10-26T06:31:50.524460",
+      "mileage": 110417,
+      "fuelLevel": 48
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.524471",
+      "deviceId": "DEV097",
+      "signalStrength": 84
+    },
+    "operationalData": {
+      "totalTrips": 2373,
+      "totalDistance": 341342,
+      "averageSpeed": 58,
+      "onTimePercentage": 84
+    }
+  },
+  {
+    "busNumber": "BUS098",
+    "routeId": "68c105b74491dc60c9930fd9",
+    "vehicleInfo": {
+      "make": "Eicher",
+      "model": "Skyline",
+      "year": 2023,
+      "capacity": 60,
+      "licensePlate": "MH35AB9320"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 22.14856,
+      "longitude": 77.503366,
+      "heading": 52,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.524495"
+    },
+    "driverId": "68c06110f9e87cc131494cb8",
+    "schedule": {
+      "startTime": "06:45",
+      "endTime": "20:00",
+      "frequency": 20
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-06T06:31:50.524489",
+      "nextServiceDate": "2025-09-27T06:31:50.524489",
+      "mileage": 91082,
+      "fuelLevel": 90
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.524500",
+      "deviceId": "DEV098",
+      "signalStrength": 96
+    },
+    "operationalData": {
+      "totalTrips": 2864,
+      "totalDistance": 265108,
+      "averageSpeed": 46,
+      "onTimePercentage": 87
+    }
+  },
+  {
+    "busNumber": "BUS099",
+    "routeId": "68c108604491dc60c99341ed",
+    "vehicleInfo": {
+      "make": "Tata",
+      "model": "Starbus",
+      "year": 2017,
+      "capacity": 60,
+      "licensePlate": "MH24AB9670"
+    },
+    "currentStatus": "active",
+    "location": {
+      "latitude": 17.300268,
+      "longitude": 84.030749,
+      "heading": 298,
+      "speed": 77,
+      "lastUpdated": "2025-09-10T06:31:50.524524"
+    },
+    "driverId": "68c061a0f9e87cc131494e95",
+    "schedule": {
+      "startTime": "07:45",
+      "endTime": "23:30",
+      "frequency": 30
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-04-09T06:31:50.524518",
+      "nextServiceDate": "2025-07-21T06:31:50.524518",
+      "mileage": 176231,
+      "fuelLevel": 20
+    },
+    "tracking": {
+      "isOnline": true,
+      "lastSeen": "2025-09-10T06:31:50.524529",
+      "deviceId": "DEV099",
+      "signalStrength": 89
+    },
+    "operationalData": {
+      "totalTrips": 6120,
+      "totalDistance": 306209,
+      "averageSpeed": 40,
+      "onTimePercentage": 79
+    }
+  },
+  {
+    "busNumber": "BUS100",
+    "routeId": "68c105304491dc60c992fa2a",
+    "vehicleInfo": {
+      "make": "Ashok Leyland",
+      "model": "Viking",
+      "year": 2021,
+      "capacity": 50,
+      "licensePlate": "MH36AB8213"
+    },
+    "currentStatus": "inactive",
+    "location": {
+      "latitude": 11.259388,
+      "longitude": 86.913451,
+      "heading": 256,
+      "speed": 0,
+      "lastUpdated": "2025-09-10T06:31:50.524554"
+    },
+    "driverId": "68c0611bf9e87cc131494cdc",
+    "schedule": {
+      "startTime": "06:30",
+      "endTime": "21:15",
+      "frequency": 10
+    },
+    "maintenance": {
+      "lastServiceDate": "2025-05-04T06:31:50.524547",
+      "nextServiceDate": "2025-09-29T06:31:50.524547",
+      "mileage": 132158,
+      "fuelLevel": 72
+    },
+    "tracking": {
+      "isOnline": false,
+      "lastSeen": "2025-09-10T06:31:50.524561",
+      "deviceId": "DEV100",
+      "signalStrength": 84
+    },
+    "operationalData": {
+      "totalTrips": 9131,
+      "totalDistance": 92489,
+      "averageSpeed": 29,
+      "onTimePercentage": 90
+    }
+  }
+]
